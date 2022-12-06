@@ -23,7 +23,7 @@
     --interactive-hover: #dcddde;
     --interactive-active: #fff;
     --interactive-muted: #4f545c;
-    --background-primary: #1a1720;
+    --background-primary: #ff0000; /* chat background color */
     --background-secondary: #121016;
     --background-secondary-alt: #0e0c11;
     --background-tertiary: #08070a;
@@ -853,7 +853,7 @@ button {
     margin-right: 10px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background: #ff0000!important; /* background color for chats*/
+    background: #15131a!important;
 }
 
 .container-ZMc96U.themed-Hp1KC_ {
